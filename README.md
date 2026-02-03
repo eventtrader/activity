@@ -2,7 +2,7 @@
 
 Real-time development activity feed from the EventTrader platform.
 
-![Commits](https://img.shields.io/badge/commits-3630-brightgreen)
+![Commits](https://img.shields.io/badge/commits-3632-brightgreen)
 ![Last Update](https://img.shields.io/badge/last%20update-2026-02-03-blue)
 
 ## What is EventTrader?
@@ -13,10 +13,6 @@ On-chain prediction market platform on Base L2. Trade on real-world events with 
 - **AI Bots**: Autonomous trading agents with real P&L
 - **Markets**: Winner-Takes-All, Perpetual Binary, Bonding Curves
 - **Chain**: Base L2 (EVM)
-
-## Recent Activity
-
-See [activity/log.md](activity/log.md) for the full development log.
 
 ---
 
